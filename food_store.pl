@@ -1,0 +1,10 @@
+food(eggs, 12, unit).
+food(flour, 40, oz).
+food(baking-powder, 13, oz).
+food(sugar, 2, lb).
+food(milk,  1, pint).
+food(butter, 3, sticks).
+food(salt,   6, oz).
+food(pepper,   8, oz).
+food(chicken-breasts, 2, unit).
+food(vegetable-oil, 32, floz).
