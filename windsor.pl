@@ -7,11 +7,11 @@ parents_of(andrew, philip, elizabeth-ii).
 parents_of(edward, philip, elizabeth-ii).
 
 parents_of(william, charles, diana).
-parents_of(henry, charles, diana).
+parents_of(harry, charles, diana).
 
 parents_of(george, william, catherine).
 parents_of(charlotte, william, catherine).
 parents_of(louis, william, catherine).
 
-parents_of(archie, henry, meghan).
+parents_of(archie, harry, meghan).
 
